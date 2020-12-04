@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">supertest</string>
+    <string name="title_activity_main">supertest</string>
+    <string name="package_name">com.super.test</string>
+    <string name="custom_url_scheme">com.super.test</string>
+</resources>
